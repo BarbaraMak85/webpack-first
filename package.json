@@ -1,0 +1,24 @@
+{
+    "name": "webpack-first",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BarbaraMak85/webpack-first.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BarbaraMak85/webpack-first/issues"
+    },
+    "homepage": "https://github.com/BarbaraMak85/webpack-first#readme",
+    "devDependencies": {
+        "webpack": "^4.29.3",
+        "webpack-cli": "^3.2.3"
+    }
+}
